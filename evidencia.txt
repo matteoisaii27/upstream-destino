@@ -1,0 +1,5 @@
+#REPOSITORIO ORIGINAL  (Primera cuenta)
+https://github.com/mateoo2707/upstream.git
+
+#REPOSITORIO DE DESTINO
+https://github.com/matteoisaii27/upstream-destino.git
